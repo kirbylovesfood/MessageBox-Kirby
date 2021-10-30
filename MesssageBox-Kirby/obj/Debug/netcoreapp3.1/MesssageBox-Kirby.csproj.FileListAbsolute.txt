@@ -1,0 +1,16 @@
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\bin\Debug\netcoreapp3.1\MesssageBox-Kirby.exe
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\bin\Debug\netcoreapp3.1\MesssageBox-Kirby.deps.json
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\bin\Debug\netcoreapp3.1\MesssageBox-Kirby.runtimeconfig.json
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\bin\Debug\netcoreapp3.1\MesssageBox-Kirby.runtimeconfig.dev.json
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\bin\Debug\netcoreapp3.1\MesssageBox-Kirby.dll
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\bin\Debug\netcoreapp3.1\MesssageBox-Kirby.pdb
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\obj\Debug\netcoreapp3.1\MesssageBox-Kirby.csproj.AssemblyReference.cache
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\obj\Debug\netcoreapp3.1\MesssageBox_Kirby.Form1.resources
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\obj\Debug\netcoreapp3.1\MesssageBox-Kirby.csproj.GenerateResource.cache
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\obj\Debug\netcoreapp3.1\MesssageBox-Kirby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\obj\Debug\netcoreapp3.1\MesssageBox-Kirby.AssemblyInfoInputs.cache
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\obj\Debug\netcoreapp3.1\MesssageBox-Kirby.AssemblyInfo.cs
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\obj\Debug\netcoreapp3.1\MesssageBox-Kirby.csproj.CoreCompileInputs.cache
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\obj\Debug\netcoreapp3.1\MesssageBox-Kirby.dll
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\obj\Debug\netcoreapp3.1\MesssageBox-Kirby.pdb
+C:\Users\63976\source\repos\MesssageBox-Kirby\MesssageBox-Kirby\obj\Debug\netcoreapp3.1\MesssageBox-Kirby.genruntimeconfig.cache

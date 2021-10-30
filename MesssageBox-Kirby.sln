@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesssageBox-Kirby", "MesssageBox-Kirby\MesssageBox-Kirby.csproj", "{B6C403D2-1BD4-41B9-9DBF-16BD1961AA9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C403D2-1BD4-41B9-9DBF-16BD1961AA9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C403D2-1BD4-41B9-9DBF-16BD1961AA9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C403D2-1BD4-41B9-9DBF-16BD1961AA9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C403D2-1BD4-41B9-9DBF-16BD1961AA9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC30D088-A221-4AFA-B481-144D49AE076C}
+	EndGlobalSection
+EndGlobal
